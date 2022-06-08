@@ -1,0 +1,17 @@
+* {
+    font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+    font-family: "Georgia", "Garamond", serif;
+    color: hsl(329, 100%, 10%);
+}
+
+h2 {
+    color: hsl(329, 100%, 25%);
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
